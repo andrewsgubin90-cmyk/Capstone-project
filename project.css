@@ -87,7 +87,12 @@ div {
     text-align: center;
 }
 
-
+.thumbnail {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border: 2px solid #999;
+}
 
 
 /* Collapsible widget styling */
