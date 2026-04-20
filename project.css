@@ -87,17 +87,8 @@ div {
     text-align: center;
 }
 
-.image-placeholder {
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    background-color: #ccc;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: bold;
-    border: 2px solid #999;
-    font-size: 14px; /* optional: makes text fit better */
-}
+
+
 
 /* Collapsible widget styling */
 details {
